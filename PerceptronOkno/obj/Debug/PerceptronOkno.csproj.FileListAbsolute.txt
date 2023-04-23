@@ -1,0 +1,11 @@
+C:\Users\janka\Desktop\PerceptronOkno\bin\Debug\PerceptronOkno.exe.config
+C:\Users\janka\Desktop\PerceptronOkno\bin\Debug\PerceptronOkno.exe
+C:\Users\janka\Desktop\PerceptronOkno\bin\Debug\PerceptronOkno.pdb
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.csproj.SuggestedBindingRedirects.cache
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.Form1.resources
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.Properties.Resources.resources
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.csproj.GenerateResource.cache
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.exe
+C:\Users\janka\Desktop\PerceptronOkno\obj\Debug\PerceptronOkno.pdb

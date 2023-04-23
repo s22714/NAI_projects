@@ -1,0 +1,11 @@
+C:\Users\janka\Desktop\NaiSiec\bin\Debug\NaiSiec.exe.config
+C:\Users\janka\Desktop\NaiSiec\bin\Debug\NaiSiec.exe
+C:\Users\janka\Desktop\NaiSiec\bin\Debug\NaiSiec.pdb
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.csproj.SuggestedBindingRedirects.cache
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.Form1.resources
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.Properties.Resources.resources
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.csproj.GenerateResource.cache
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.exe
+C:\Users\janka\Desktop\NaiSiec\obj\Debug\NaiSiec.pdb
