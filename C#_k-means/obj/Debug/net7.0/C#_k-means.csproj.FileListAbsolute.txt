@@ -1,0 +1,15 @@
+C:\Users\janka\Desktop\C#_k-means\bin\Debug\net7.0\C#_k-means.exe
+C:\Users\janka\Desktop\C#_k-means\bin\Debug\net7.0\C#_k-means.deps.json
+C:\Users\janka\Desktop\C#_k-means\bin\Debug\net7.0\C#_k-means.runtimeconfig.json
+C:\Users\janka\Desktop\C#_k-means\bin\Debug\net7.0\C#_k-means.dll
+C:\Users\janka\Desktop\C#_k-means\bin\Debug\net7.0\C#_k-means.pdb
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.csproj.AssemblyReference.cache
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.AssemblyInfoInputs.cache
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.AssemblyInfo.cs
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.csproj.CoreCompileInputs.cache
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.dll
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\refint\C#_k-means.dll
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.pdb
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\C#_k-means.genruntimeconfig.cache
+C:\Users\janka\Desktop\C#_k-means\obj\Debug\net7.0\ref\C#_k-means.dll
